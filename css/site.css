@@ -2,5 +2,6 @@ body{
     text-align: center;
 }
 .slideshow img{
-    max-width: 500px;
+    max-width: 300px;
+    max-height: 300px;
 }
