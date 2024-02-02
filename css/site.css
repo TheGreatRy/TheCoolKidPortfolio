@@ -1,7 +1,53 @@
-body{
-    text-align: center;
-}
 .slideshow img{
     max-width: 300px;
     max-height: 300px;
+}
+body {
+    background: #10002b;
+    color: #9d4edd;
+    font-family:cursive;
+    text-align: center;
+    margin: auto;
+}
+h1 {
+    background-color: #9d4edd;
+    border-style: inset;
+    border-color: #7b2cbf;
+    color: #5a189a;
+    text-align: center;
+}
+h2 {
+    background-color: #9d4edd;
+    border-style: inset;
+    border-color: #7b2cbf;
+    color: #5a189a;
+    text-align: center;
+}
+h3 {
+    background-color: #9d4edd;
+    border-style: inset;
+    border-color: #7b2cbf;
+    color: #5a189a;
+    text-align: center;
+}
+p{
+    color: #7b2cbf;
+    text-align: center;
+    
+}
+a{
+    background-color: #e0aaff;
+    border-style: groove;
+    border-color: #9d4edd;
+    color: #7b2cbf;
+}
+a:visited {
+    background-color: #e0aaff;
+    border-style: groove;
+    border-color: #9d4edd;
+    color: #10002b;
+}
+img{
+    max-width: 30%;
+    margin: auto;
 }
